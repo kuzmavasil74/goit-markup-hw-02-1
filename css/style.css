@@ -11,7 +11,7 @@ body {
 .header-nav {
 }
 .logo {
-  color: var(--NAVY-BLUE, #4d5ae5);
+  color: #4d5ae5;
   font-family: Raleway, sans-serif;
   font-size: 18px;
   font-weight: 700;
@@ -21,7 +21,7 @@ body {
   text-decoration: none;
 }
 .logo-studio {
-  color: var(--IRIS, #2e2f42);
+  color: #2e2f42;
   font-family: Raleway;
   font-size: 18px;
   font-weight: 700;
@@ -35,7 +35,7 @@ body {
 .header-nav-list-item {
 }
 .header-nav-list-item-link {
-  color: var(--NAVY-BLUE, #2e2f42);
+  color: #2e2f42;
   /* Body Medium */
   font-size: 16px;
   font-weight: 500;
@@ -44,10 +44,10 @@ body {
 }
 .header-nav-list-item-link:hover,
 .header-nav-list-item-link:focus {
-  color: var(--OCEAN, #404bbf);
+  color: #404bbf;
 }
 .header-adress-item-link {
-  color: var(--SLATE, #434455);
+  color: #434455;
   /* Body */
   font-size: 16px;
   letter-spacing: 0.32px;
@@ -55,7 +55,7 @@ body {
 }
 .header-adress-item-link:hover,
 .header-adress-item-link:focus {
-  color: var(--OCEAN, #404bbf);
+  color: #404bbf;
 }
 .header-adress {
   font-style: normal;
@@ -67,10 +67,10 @@ body {
 .header-adress-item-link {
 }
 .business {
-  background: var(--NAVY-BLUE, #2e2f42);
+  background: #2e2f42;
 }
 .business-title {
-  color: var(--WHITE, #fff);
+  color: #fff;
   text-align: center;
   /* Header 1 */
   font-size: 56px;
@@ -79,19 +79,19 @@ body {
   letter-spacing: 1.12px;
 }
 .business-button {
-  color: var(--WHITE, #fff);
+  color: #fff;
   /* Button Text */
   font-family: 'Roboto', sans-serif;
   font-size: 16px;
   font-weight: 500;
   letter-spacing: 0.64px;
   line-height: 1.5;
-  background: var(--IRIS, #4d5ae5);
+  background: #4d5ae5;
   cursor: pointer;
 }
 .business-button:hover,
 .business-button:focus {
-  background: var(--OCEAN, #404bbf);
+  background: #404bbf;
 }
 .strategy-company {
   background: #fff;
@@ -100,16 +100,15 @@ body {
 }
 .strategy-company-item {
 }
-.strategy-company-title {
-  color: var(--NAVY-BLUE, #2e2f42);
-  /* Header 3 */
+.strategy-company-tittle {
+  color: #2e2f42;
   font-size: 20px;
   font-weight: 500;
-  line-height: 1.2; /* 120% */
+  line-height: 1.2;
   letter-spacing: 0.02em;
 }
 .strategy-company-description {
-  color: var(--SLATE, #434455);
+  color: #434455;
   /* Body */
   font-size: 16px;
   letter-spacing: 0.32px;
@@ -119,7 +118,7 @@ body {
   background-color: #f4f4fd;
 }
 .section-tittle {
-  color: var(--NAVY-BLUE, #2e2f42);
+  color: #2e2f42;
   text-align: center;
   /* Header 2 */
   font-size: 36px;
@@ -136,7 +135,7 @@ body {
 .our-team-img {
 }
 .our-team-titles {
-  color: var(--NAVY-BLUE, #2e2f42);
+  color: #2e2f42;
   text-align: center;
   /* Header 3 */
   font-size: 20px;
@@ -145,7 +144,7 @@ body {
   letter-spacing: 0.4px;
 }
 .our-team-desc {
-  color: var(--SLATE, #434455);
+  color: #434455;
   text-align: center;
   /* Body */
   font-size: 16px;
@@ -161,7 +160,7 @@ body {
 .our-portfolio-img {
 }
 .our-portfolio-title {
-  color: var(--NAVY-BLUE, #2e2f42);
+  color: #2e2f42;
   /* Header 3 */
   font-size: 20px;
   font-weight: 500;
@@ -169,16 +168,16 @@ body {
   letter-spacing: 0.4px;
 }
 .our-portfolio-position {
-  color: var(--SLATE, #434455);
+  color: #434455;
   /* Body */
   font-size: 16px;
   letter-spacing: 0.32px;
 }
 .footer {
-  background: var(--NAVY-BLUE, #2e2f42);
+  background: #2e2f42;
 }
 .footer-text {
-  color: var(--CLOUD, #f4f4fd);
+  color: #f4f4fd;
   /* Body */
   font-size: 16px;
   letter-spacing: 0.32px;
