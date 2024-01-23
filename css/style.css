@@ -176,6 +176,16 @@ body {
 .footer {
   background: #2e2f42;
 }
+.footer-logo-studio {
+  color: #f4f4fd;
+  font-family: Raleway;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 1.17; /* 116.667% */
+  letter-spacing: 0.54px;
+  text-transform: uppercase;
+  text-decoration: none;
+}
 .footer-text {
   color: #f4f4fd;
   /* Body */
