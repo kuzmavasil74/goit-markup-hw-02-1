@@ -7,8 +7,6 @@ body {
   line-height: 1.5;
 }
 .header {
-  /* width: 1440px;
-  height: 72px; */
 }
 .header-nav {
 }
@@ -69,8 +67,6 @@ body {
 .header-adress-item-link {
 }
 .business {
-  /* width: 1440px;
-  height: 600px; */
   background: var(--NAVY-BLUE, #2e2f42);
 }
 .business-title {
@@ -90,9 +86,7 @@ body {
   font-weight: 500;
   letter-spacing: 0.64px;
   line-height: 1.5;
-  /* border-radius: 4px; */
   background: var(--IRIS, #4d5ae5);
-  /* box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15); */
   cursor: pointer;
 }
 .business-button:hover,
@@ -100,8 +94,6 @@ body {
   background: var(--OCEAN, #404bbf);
 }
 .strategy-company {
-  /* width: 1440px;
-  height: 600px; */
   background: #fff;
 }
 .strategy-company-list {
@@ -123,8 +115,6 @@ body {
   letter-spacing: 0.32px;
 }
 .our-team {
-  /* width: 1440px;
-  height: 600px; */
   background: #fff;
 }
 .section-tittle {
@@ -142,8 +132,6 @@ body {
 .our-team-item {
 }
 .our-team-img {
-  /* width: 264px;
-  height: 260px; */
 }
 .our-team-titles {
   color: var(--NAVY-BLUE, #2e2f42);
@@ -162,8 +150,6 @@ body {
   letter-spacing: 0.32px;
 }
 .our-portfolio {
-  /* width: 1440px;
-  height: 600px; */
   background: #fff;
 }
 .our-portfolio-list {
@@ -171,8 +157,6 @@ body {
 .our-portfolio-item {
 }
 .our-portfolio-img {
-  /* width: 360px;
-  height: 300px; */
 }
 .our-portfolio-title {
   color: var(--NAVY-BLUE, #2e2f42);
@@ -189,8 +173,6 @@ body {
   letter-spacing: 0.32px;
 }
 .footer {
-  /* width: 1440px;
-  height: 312px; */
   background: var(--NAVY-BLUE, #2e2f42);
 }
 .footer-text {
