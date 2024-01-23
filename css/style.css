@@ -116,6 +116,7 @@ body {
 }
 .our-team {
   background: #fff;
+  background-color: #f4f4fd;
 }
 .section-tittle {
   color: var(--NAVY-BLUE, #2e2f42);
@@ -130,6 +131,7 @@ body {
 .our-team-list {
 }
 .our-team-item {
+  background-color: #ffffff;
 }
 .our-team-img {
 }
